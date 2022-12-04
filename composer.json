@@ -1,7 +1,12 @@
 {
     "name": "sujan97825/laravel-slug-generator",
     "description": "Slug Generator",
-    "type": "composer-plugin",
+    "keywords": [
+        "laravel_unique_slug",
+        "laravel",
+        "laravel-unique-slug"
+    ],
+    "homepage": "https://github.com/sujan97825/laravel-slug-generator",
     "license": "MIT",
     "autoload": {
         "psr-4": {
