@@ -1,10 +1,10 @@
 {
     "name": "sujan97825/laravel-slug-generator",
-    "description": "Slug Generator",
+    "description": "Laravel Slug Generator For English,Bangla",
     "keywords": [
-        "laravel_unique_slug",
+        "laravel_slug_generate",
         "laravel",
-        "laravel-unique-slug"
+        "laravel-slug-generate"
     ],
     "homepage": "https://github.com/sujan97825/laravel-slug-generator",
     "license": "MIT",

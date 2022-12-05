@@ -5,7 +5,7 @@ namespace Sujan\LaravelSlugGenerator\Facades;
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Akash\LaravelUniqueSlug\UniqueSlug
+ * @see \Sujan\LaravelSlugGenerator\SlugGenerator
  */
 class SlugGenerator extends Facade
 {
