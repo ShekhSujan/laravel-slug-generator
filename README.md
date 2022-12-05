@@ -1,4 +1,4 @@
-# Laravel-unique-slug-generator
+# Laravel-slug-generator
 
 Laravel Slug Generator with Multi Language Support.
 
