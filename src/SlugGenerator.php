@@ -48,7 +48,9 @@ class SlugGenerator
 
         $slug = preg_replace("/[~`{}.'\"\!\@\#\$\%\^\&\*\(\)\_\=\+\/\?\>\<\,\[\]\:\;\|\\\]/", '', $value);
         $slug = strtolower(trim(preg_replace("/[\/_|+ -]+/", $separator, $slug), $separator));
-        return $slug;
+        if ($slug) {
+            return $slug;
+        }
         throw new \Exception('Can not create a slug');
     }
 
