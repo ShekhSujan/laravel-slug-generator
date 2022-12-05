@@ -1,6 +1,6 @@
 # Laravel-unique-slug-generator
 
-Laravel Slug Generator For English,Bangla.
+Laravel Slug Generator with Multi Language Support.
 
 ---
 

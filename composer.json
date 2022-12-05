@@ -1,6 +1,6 @@
 {
     "name": "sujan97825/laravel-slug-generator",
-    "description": "Laravel Slug Generator For English,Bangla",
+    "description": "Laravel Slug Generator with Multi Language Support",
     "keywords": [
         "laravel_slug_generate",
         "laravel",
